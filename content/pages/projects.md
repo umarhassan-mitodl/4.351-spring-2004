@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides two examples of student work from this class. Each
   is courtesy of the student named, and used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,9 +16,9 @@ There are two examples of student work from this class. Each is courtesy of the 
 Midterm Project
 ---------------
 
-M. Anastasia Rodriguez - _Reflections_ ({{% resource_link "dc2f5a23-809c-4210-ac65-8900ee44b402" "MP4 - 15MB" %}})
+M. Anastasia Rodriguez - _Reflections_ ([MP4 - 15MB](https://archive.org/download/MIT4.351S04/mit-ocw-4.351-rodriquez-reflections-220k.mp4))
 
 Final Project
 -------------
 
-Maria Villalobos - _Dancers_ ({{% resource_link "bd6b9a17-4e94-48e9-bc18-093c08da5dbe" "MP4 - 28MB" %}})
+Maria Villalobos - _Dancers_ ([MP4 - 28MB](https://archive.org/download/MIT4.351S04/mit-ocw-4.351-villalobos-dancers-220k.mp4))
