@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of course topics, screenings, and
   assignments.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Calendar
 uid: 03619de3-09cf-28ed-8e29-76dd90ec842f
 ---
